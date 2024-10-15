@@ -1,7 +1,7 @@
 # 3DOF-robotic-arm-forward-and-inverse-kinematics
 
 # Description
-In this project, the forward and inverse kinematics of a 3 DOF robotic arm is calculated. The diagram of the arm is shown in the figure below. 
+In this project, the forward and inverse kinematics of a 3 DOF robotic arm are calculated. The diagram of the arm is shown in the figure below. 
 
  ![image](https://github.com/user-attachments/assets/be95742a-09e2-4f4e-9663-721a1206bb18)
 
